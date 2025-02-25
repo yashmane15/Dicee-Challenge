@@ -1,3 +1,3 @@
 # Dicee-Challenge
-<h1>This is dice game</h1>
-<p>You have to refresh every time to play</p>
+<h3>This is dice game</h3>
+<p>You have to refresh very time to play</p>
